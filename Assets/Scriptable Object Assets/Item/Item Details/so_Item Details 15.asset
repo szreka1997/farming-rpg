@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9476db4c2b515b469de9b8db5e034c4, type: 3}
+  m_Name: so_Item Details 15
+  m_EditorClassIdentifier: 
+  itemCode: 10015
+  itemType: 1
+  itemDescription: Stone
+  itemSprite: {fileID: 1677508689, guid: 599b64f7dc6763648b2be3fa191bf053, type: 3}
+  itemLongDescription: Stone has many practical uses for crafting and building
+  buyingPrice: 500
+  itemsUseGridRadius: 2
+  itemUseRadius: 0
+  isStackable: 1
+  isStartingItem: 0
+  canBePickedUp: 1
+  canBeDropped: 1
+  canBeEaten: 0
+  canBeCarried: 1

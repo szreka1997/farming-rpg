@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a75b35b0a47b294c988f688aca9073d, type: 3}
+  m_Name: so_Crop Details 05
+  m_EditorClassIdentifier: 
+  seedItemCode: 10014
+  growthDays: 00000000
+  growthPrefab:
+  - {fileID: 4968249022964956294, guid: 82a412a1571aceb4fb328f2aebba7eb9, type: 3}
+  growthSprite:
+  - {fileID: 690778169, guid: 599b64f7dc6763648b2be3fa191bf053, type: 3}
+  seasons: 00000000010000000200000003000000
+  harvestedSprite: {fileID: 1677508689, guid: 599b64f7dc6763648b2be3fa191bf053, type: 3}
+  harvestedTransformItemCode: 0
+  hideCropBeforeHarvestedAnimation: 1
+  disableCropCollidersBeforeHarvestedAnimation: 1
+  isHarvestedAnimation: 1
+  isHarvestActionEffect: 1
+  spawnCropProducedAtPlayerPosition: 1
+  harvestActionEffect: 4
+  harvestSound: 140
+  harvestToolItemCode: 1d270000
+  requiredHarvestActions: 02000000
+  cropProducedItemCode: 1f270000
+  cropProducedMinQuantity: 01000000
+  cropProducedMaxQuantity: 01000000
+  daysToRegrow: 0

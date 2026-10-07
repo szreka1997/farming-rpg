@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c04b3200aff396a4fa15c862d6fe58aa, type: 3}
+  m_Name: so_Lighting Schedule_Indoor Lamp
+  m_EditorClassIdentifier: 
+  lightingBrightnessArray:
+  - {fileID: 11400000, guid: ceb82c609e1fc5c4e8710a9122e73aad, type: 2}
+  - {fileID: 11400000, guid: 193bed79a000c7f4a89abb1f7847ce07, type: 2}
+  - {fileID: 11400000, guid: fe8bff601ef6e4d438da66aa9ff63a81, type: 2}
+  - {fileID: 11400000, guid: 9aaf4a3fed77f874e9450a04536d391f, type: 2}
+  - {fileID: 11400000, guid: 0883c4e06df24c5488ef4d1fca82b6b5, type: 2}
+  - {fileID: 11400000, guid: 0af4a2155378e9e44a9008f0f34cd785, type: 2}
+  - {fileID: 11400000, guid: 8dab9f10cbb8ab248a11bf6674181a52, type: 2}
+  - {fileID: 11400000, guid: 5e4c81d99b66fd14e836c194103a3321, type: 2}

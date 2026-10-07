@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c398779398f03504e87867bc54a62563, type: 3}
+  m_Name: so_Scene Sounds List
+  m_EditorClassIdentifier: 
+  sceneSoundsDetails:
+  - {fileID: 11400000, guid: 05e6446243436354eb5b78791fb61b19, type: 2}
+  - {fileID: 11400000, guid: f028228eb4c48414f8399febeef5b080, type: 2}
+  - {fileID: 11400000, guid: 7425fd929a730e344ba5e251ad275add, type: 2}

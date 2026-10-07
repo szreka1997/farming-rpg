@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c04b3200aff396a4fa15c862d6fe58aa, type: 3}
+  m_Name: so_Lighting Schedule_Outdoor Sporlight
+  m_EditorClassIdentifier: 
+  lightingBrightnessArray:
+  - {fileID: 11400000, guid: deae715726f66ab439e9eabb4002723e, type: 2}
+  - {fileID: 11400000, guid: 395f86062713d544db015d7eda96e4d0, type: 2}
+  - {fileID: 11400000, guid: 55d34d4c45e6c4e4a94025b636927486, type: 2}
+  - {fileID: 11400000, guid: 583584f322bc24344aaa61f07c4b7c34, type: 2}
+  - {fileID: 11400000, guid: 0dfc4234b8da9124289ae98ff69aae95, type: 2}
+  - {fileID: 11400000, guid: cd7b372f4f022b845936b6deb8a9f513, type: 2}
+  - {fileID: 11400000, guid: 960406b14e3c3ae489ed2a3947424a01, type: 2}
+  - {fileID: 11400000, guid: 1cd5271d259166b4cb9c245117a87e7e, type: 2}
+  - {fileID: 11400000, guid: 45701d40397eebe43b7db8977982a165, type: 2}
+  - {fileID: 11400000, guid: b2c336f36610a6d4ab4df616af79f0c2, type: 2}
+  - {fileID: 11400000, guid: 1cf5859a870e71a4ca7066b359af8e61, type: 2}
+  - {fileID: 11400000, guid: 67acf72f93b52b544baa2f61d1abf97f, type: 2}
+  - {fileID: 11400000, guid: 28385f4e4837b8f4da84711aa4db8d82, type: 2}
+  - {fileID: 11400000, guid: 90c2e387da6857145a68062433d316cf, type: 2}
+  - {fileID: 11400000, guid: 0d964319409bcd24abbd329002ef4107, type: 2}
+  - {fileID: 11400000, guid: 645370ae5fa3af3468218f9cce6a48a8, type: 2}

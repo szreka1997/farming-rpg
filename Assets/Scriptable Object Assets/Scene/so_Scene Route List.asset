@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e78da54039931d54da98c5fecaa811d2, type: 3}
+  m_Name: so_Scene Route List
+  m_EditorClassIdentifier: 
+  sceneRouteList:
+  - {fileID: 11400000, guid: 31fd41cb2625e874289b666e97258a3a, type: 2}
+  - {fileID: 11400000, guid: 49b01f6b9912ad94a8f143a6e1d7daec, type: 2}
+  - {fileID: 11400000, guid: 2fca7bf14dae5384eb09f3dfea010ff3, type: 2}
+  - {fileID: 11400000, guid: aeadde7ee9c0a704685041c5bdff0e5e, type: 2}
+  - {fileID: 11400000, guid: 1ae717d6f5cb4f649a90617f0eb599d1, type: 2}
+  - {fileID: 11400000, guid: 5d8625968ee90454b989887ea115b0c9, type: 2}
